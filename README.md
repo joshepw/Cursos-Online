@@ -2,30 +2,28 @@
 
 ##Listado de Aplicaciones Utiles
 
-Sublimetext [Editor de Textos y Codigo],
+[Sublimetext](http://sublimetext.com/) _Editor de Textos y Codigo_,
 
-Github [Control de Versiones],
+[Github](https://github.com/) _Control de Versiones_,
 
-Node.js [Plataforma para javascript],
+[Node.js](http://nodejs.org/) _Plataforma para javascript_,
 
-Bower [Gestor de paquetes web],
+[Bower](http://bower.io/) _Gestor de paquetes web_,
 
-Composser [Gestor de paquetes PHP],
+[Composser](https://getcomposer.org/) _Gestor de paquetes PHP_,
 
-EasyPHP (Windows) / MAMP Pro (OSX) [WebServer,PHP,MySQL],
+[EasyPHP](http://www.easyphp.org/) (Windows) / [MAMP Pro](http://www.mamp.info/en/mamp-pro/) (OSX) _WebServer,PHP,MySQL_,
 
-Zeal (Windows) / Dash (OSX) [Gestor de documentaciones Offline],
-
-Prepros [Copilador y gestor de proyectos],
+[Zeal](http://zealdocs.org/) (Windows) / [Dash](http://kapeli.com/dash) (OSX) _Gestor de documentaciones Offline_,
 
 
 ##Listado de Frameworks
 
-Laravel [Framework completo basado en PHP],
+[Laravel](http://laravel.com/) _Framework completo basado en PHP_,
 
-Angular [Framework optimizado para javascript],
+[Angular](https://angularjs.org/) _Framework optimizado para javascript_,
 
-Bootstrap [Elementos basicos HTML y CSS],
+[Bootstrap](http://getbootstrap.com/) _Elementos basicos HTML y CSS_,
 
-jQuery [Libreria de funciones javascript],
+[jQuery](http://jquery.com/) _Libreria de funciones javascript_,
 
