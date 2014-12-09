@@ -1,4 +1,6 @@
-<!-- Listado de Aplicaciones Utiles -->
+#Repositorio de Cursos PHP,Javascript, Laravel y Angular
+
+##Listado de Aplicaciones Utiles
 
 Sublimetext [Editor de Textos y Codigo],
 
@@ -17,7 +19,7 @@ Zeal (Windows) / Dash (OSX) [Gestor de documentaciones Offline],
 Prepros [Copilador y gestor de proyectos],
 
 
-<!-- Listado de Frameworks -->
+##Listado de Frameworks
 
 Laravel [Framework completo basado en PHP],
 
