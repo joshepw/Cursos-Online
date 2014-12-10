@@ -23,7 +23,7 @@
 	/* 
 		Tambien se pueden crear bloques de comentarios pero se abre con pleca+asterisco (/*)
 		y se cierran con asterisco+pleca que es el viceversa. Dentro de ellos se pueden 
-		usar las lineas de codigo que se desee, este bloque te texto es un ejemplo.
+		usar las lineas de codigo que se desee, este bloque de texto es un ejemplo.
 
 		Los comentarios se utilizar mucho para guiar al programador a explicar como 
 		trabaja su codigo y tambien sirve para documentar las funciones del mismo.
